@@ -21,7 +21,7 @@ git clone https://github.com/deni-irawan40563/rest-api-coffee.git
 ```sh
 npm install
 ```
-3. Import the database for this project coffeproject.sql
+3. Import the database for this project
 4. Look postman collection for this rest-api [here](https://documenter.getpostman.com/view/12255985/TVYDdeQ7)
 ## Project setup
 ```
